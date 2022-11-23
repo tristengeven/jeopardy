@@ -20,7 +20,7 @@ export default function Game() {
     const updatedQuestions = questions.map((entry) => {
       if (
         entry.category === question.category &&
-        entry.point_value === question.point_value
+        entry.difficulty === question.difficulty
       )
         return { ...entry, asked: toggleValue };
       else {
@@ -39,7 +39,7 @@ export default function Game() {
   switch (gameState) {
     case "board":
       return (
-        <div className="bg-blue-800 h-screen overflow-hidden">
+        <div className="bg-blue-800 h-screen overflow-y-hidden">
           <div className="text-white flex h-full">
             {categories.map((category) => {
               return (
@@ -47,7 +47,7 @@ export default function Game() {
                   className="flex flex-col flex-1"
                   key={`column_${category}`}
                 >
-                  <h1 className="text-center py-8 font-bold text-2xl">
+                  <h1 className="text-center font-bold py-6 max-h-8 mb-8 lg:py-8 lg:text-2xl">
                     {category}
                   </h1>
                   {questions
@@ -58,7 +58,7 @@ export default function Game() {
                       return (
                         <div
                           className="flex-1 max-h-28 md:max-h-full"
-                          key={`question_${question.category}_${question.point_value}`}
+                          key={`question_${question.category}_${question.difficulty}`}
                         >
                           <button
                             className="h-full w-full"
@@ -66,14 +66,14 @@ export default function Game() {
                             disabled={question.asked}
                           >
                             <div
-                              className={`text-yellow-200 font-bold text-2xl border-2 border-black h-full w-full flex flex-col ${
+                              className={`text-yellow-200 font-bold lg:text-2xl border-2 border-black h-full w-full flex flex-col ${
                                 question.asked === false
                                   ? "justify-center"
                                   : "justify-end"
                               } `}
                             >
                               {question.asked === false && (
-                                <h1>{question.point_value}</h1>
+                                <h1>{question.difficulty}</h1>
                               )}
                               {question.asked === true && (
                                 <button
