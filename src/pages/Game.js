@@ -14,6 +14,7 @@ export default function Game() {
   const [activeQuestion, setActiveQuestion] = useState({});
 
   function songPlay() {
+    song.currentTime = 0;
     song.play();
     setTimeout(() => {
       song.pause();
@@ -121,8 +122,8 @@ export default function Game() {
               className="border-2 border-white rounded-md px-5 py-1 mt-12 mr-4 hover:bg-blue-600 text-white"
               onClick={() => {
                 setGameState("answer");
-                toggleQuestionAsked(activeQuestion);
                 songStop();
+                toggleQuestionAsked(activeQuestion);
               }}
             >
               answer
@@ -149,6 +150,7 @@ export default function Game() {
             <button
               className="border-2 border-white rounded-md px-5 py-1 mt-12 hover:bg-blue-600 text-white"
               onClick={() => {
+                songStop();
                 setGameState("board");
               }}
             >
