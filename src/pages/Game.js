@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { AiOutlineRollback } from "react-icons/ai";
 import themeSong from "../data/theme.mp3";
+import Countdown from "react-countdown";
 
 let importedCategories = require("../data/categories.json");
 let importedQuestions = require("../data/questions.json");
@@ -18,7 +19,7 @@ export default function Game() {
     song.play();
     timeoutID = setTimeout(() => {
       song.pause();
-    }, 10000);
+    }, 20000);
   }
 
   function songStop() {
@@ -26,6 +27,25 @@ export default function Game() {
     song.pause();
     song.currentTime = 0;
   }
+
+  // Renderer callback with condition
+  const renderer = ({ seconds, completed }) => {
+    if (completed) {
+      // Render a complete state
+      return (
+        <span className="text-white text-bold text-2xl lg:text-4xl">
+          Times Up!
+        </span>
+      );
+    } else {
+      // Render a countdown
+      return (
+        <span className="text-white text-bold text-2xl lg:text-4xl">
+          {seconds}
+        </span>
+      );
+    }
+  };
 
   const handleQuestionClicked = (question) => {
     setActiveQuestion(question);
@@ -139,6 +159,9 @@ export default function Game() {
               back to board
             </button>
           </div>
+          <Countdown date={Date.now() + 20000} renderer={renderer}>
+            {/* <Completionist /> */}
+          </Countdown>
         </div>
       ); // end question board
     case "answer":
