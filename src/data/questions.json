@@ -154,37 +154,51 @@
     },
     {
       "category": "Pop Culture",
-      "question": "what is 11?",
-      "answer": "11",
+      "question": "This former US President was once banned from Twitter",
+      "answer": "Donald Trump",
       "difficulty": "Very Easy",
       "asked": false
     },
     {
       "category": "Pop Culture",
-      "question": "what is 22?",
-      "answer": "22",
+      "question": "This is the most recent in the Avangers film series",
+      "answer": "Avengers: Endgame",
       "difficulty": "Easy",
       "asked": false
     },
     {
       "category": "Pop Culture",
-      "question": "what is 33?",
-      "answer": "33",
+      "question": "This country turned pop artist is notorious for writing breakup songs",
+      "answer": "Taylor Swift",
       "difficulty": "Medium",
       "asked": false
     },
     {
       "category": "Pop Culture",
-      "question": "what is 44?",
-      "answer": "44",
+      "question": "This video is has the most views of all time on Youtube",
+      "answer": "Baby Shark",
       "difficulty": "Kinda Hard",
       "asked": false
     },
     {
       "category": "Pop Culture",
-      "question": "what is 55?",
-      "answer": "55",
+      "question": "This film has made the highest profit of all time",
+      "answer": "Avatar",
       "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "Adam Levine is a singer in this music group",
+      "answer": "Maroon 5",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "These fictional spokespersons are the faces of insurance companies Progressive, State Farm, and Allstate",
+      "answer": "Flo, Jake, and Mayhem",
+      "difficulty": "Super Duper Hard",
       "asked": false
     },
     {
