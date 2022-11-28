@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { AiOutlineRollback } from "react-icons/ai";
+import themeSong from "../data/theme.mp3";
 
 let importedCategories = require("../data/categories.json");
 let importedQuestions = require("../data/questions.json");
+
+let song = new Audio(themeSong);
 
 export default function Game() {
   const [gameState, setGameState] = useState(""); // can be board, question, or answer
@@ -10,9 +13,22 @@ export default function Game() {
   const [questions, setQuestions] = useState([]);
   const [activeQuestion, setActiveQuestion] = useState({});
 
+  function songPlay() {
+    song.play();
+    setTimeout(() => {
+      song.pause();
+    }, 10000);
+  }
+
+  function songStop() {
+    song.pause();
+    song.currentTime = 0;
+  }
+
   const handleQuestionClicked = (question) => {
     setActiveQuestion(question);
     setGameState("question");
+    songPlay();
   };
 
   const toggleQuestionAsked = (question) => {
@@ -106,6 +122,7 @@ export default function Game() {
               onClick={() => {
                 setGameState("answer");
                 toggleQuestionAsked(activeQuestion);
+                songStop();
               }}
             >
               answer
@@ -114,6 +131,7 @@ export default function Game() {
               className="border-2 border-white rounded-md px-5 py-1 mt-12 hover:bg-blue-600 text-white"
               onClick={() => {
                 setGameState("board");
+                songStop();
               }}
             >
               back to board
