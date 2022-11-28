@@ -6,6 +6,7 @@ let importedCategories = require("../data/categories.json");
 let importedQuestions = require("../data/questions.json");
 
 let song = new Audio(themeSong);
+let timeoutID;
 
 export default function Game() {
   const [gameState, setGameState] = useState(""); // can be board, question, or answer
@@ -14,14 +15,14 @@ export default function Game() {
   const [activeQuestion, setActiveQuestion] = useState({});
 
   function songPlay() {
-    song.currentTime = 0;
     song.play();
-    setTimeout(() => {
+    timeoutID = setTimeout(() => {
       song.pause();
     }, 10000);
   }
 
   function songStop() {
+    clearTimeout(timeoutID);
     song.pause();
     song.currentTime = 0;
   }
