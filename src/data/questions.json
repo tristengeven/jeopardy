@@ -1,304 +1,304 @@
 [
     {
-      "category": "Bible",
-      "question": "This animal tempted Adam and Eve in the Garden of Eden",
-      "answer": "Snake",
+      "category": "Exodus",
+      "question": "What country were the Israelites slaves in?",
+      "answer": "Egypt",
       "difficulty": "Very Easy",
       "asked": false
     },
     {
-      "category": "Bible",
-      "question": "This part of Adam's body was used to create Eve",
-      "answer": "His rib",
+      "category": "Exodus",
+      "question": "Who found baby Moses in the river",
+      "answer": "Pharoh's daughter",
       "difficulty": "Easy",
       "asked": false
     },
     {
-      "category": "Bible",
-      "question": "This many people were on Noah's Ark",
-      "answer": "8",
+      "category": "Exodus",
+      "question": "What was the 10th plague on Egypt?",
+      "answer": "Death of firstborn",
       "difficulty": "Medium",
       "asked": false
     },
     {
-      "category": "Bible",
-      "question": "This person baptized Jesus",
-      "answer": "John the Baptist",
+      "category": "Exodus",
+      "question": "What was the name of Moses' brother?",
+      "answer": "Aaron",
       "difficulty": "Kinda Hard",
       "asked": false
     },
 
     {
+      "category": "Exodus",
+      "question": "Which of the 10 commandments comes with a promise and what is that promise?",
+      "answer": "#5 Honor your father and your mother so that you may have a long life in the land that the Lord your God is giving you.",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Exodus",
+      "question":
+        "What tribe was Moses from?",
+      "answer": "The tribe of Levi",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Exodus",
+      "question":
+        "How old was Moses when God appeared to him in the burning bush??",
+      "answer": "80",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
       "category": "Bible",
-      "question": "The Old Testament was written in this language",
-      "answer": "Hebrew",
+      "question": "What is the last book in the Bible?",
+      "answer": "Revelation",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question": "Name the disciple who betrayed Jesus?",
+      "answer": "Judas Iscariot",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question": "Who was Jesus' adoptive father on Earth?",
+      "answer": "Joseph",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question": "What did God change Jacob's name to before his meeting with Esau?",
+      "answer": "Israel",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question":
+        "Before Jesus started preaching, what was his job?",
+      "answer": "Carpenter",
       "difficulty": "Hard",
       "asked": false
     },
     {
       "category": "Bible",
       "question":
-        "This garden is where Jesus went to pray after the last supper",
-      "answer": "The Garden of Gethsemane",
+        "Name the place where Jesus walked on water",
+      "answer": "Sea of Galilee",
       "difficulty": "Very Hard",
       "asked": false
     },
     {
       "category": "Bible",
-      "question":
-        "This is where Jesus went 40 days after His resurrection",
-      "answer": "Heaven",
+      "question": "How did Saul die",
+      "answer": "He fell on his sword",
       "difficulty": "Super Duper Hard",
       "asked": false
     },
     {
-      "category": "Sports",
-      "question": "This shot is taken after a foul in basketball",
-      "answer": "Free Throw",
-      "difficulty": "Very Easy",
-      "asked": false
-    },
-    {
-      "category": "Sports",
-      "question": "This man is known as the GOAT",
-      "answer": "Tom Brady",
-      "difficulty": "Easy",
-      "asked": false
-    },
-    {
-      "category": "Sports",
-      "question": "This many innings are in a Major League Baseball game",
-      "answer": "9",
-      "difficulty": "Medium",
-      "asked": false
-    },
-    {
-      "category": "Sports",
-      "question": "This team won the 2022 Super Bowl",
-      "answer": "Los Angeles Rams",
-      "difficulty": "Kinda Hard",
-      "asked": false
-    },
-    {
-      "category": "Sports",
-      "question":
-        "This olympic sport involves players sliding stones on a sheet of ice toward a target area which is segmented into four concentric circles",
-      "answer": "Curling",
-      "difficulty": "Hard",
-      "asked": false
-    },
-    {
-      "category": "Sports",
-      "question":
-        "This Arkansas player was taken 18th overall in the 2022 NFL draft",
-      "answer": "Treylon Burks",
-      "difficulty": "Very Hard",
-      "asked": false
-    },
-    {
-      "category": "Sports",
-      "question": "This used to be outlawed in NCAA Basketball pregame warmups",
-      "answer": "Dunking",
-      "difficulty": "Super Duper Hard",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question": "This is the capital city of Mexico",
-      "answer": "Mexico City",
-      "difficulty": "Very Easy",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question": "This is the tallest mountain on Earth",
-      "answer": "Mt. Everest",
-      "difficulty": "Easy",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question":
-        "This US state features a rock sculpture of 4 past presidents",
-      "answer": "South Dakota",
-      "difficulty": "Medium",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question": "This is the 3rd largest US State",
-      "answer": "California",
-      "difficulty": "Kinda Hard",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question": "This is the largest desert on Earth",
-      "answer": "Antarctica",
-      "difficulty": "Hard",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question": "This country used to own Louisiana",
-      "answer": "France",
-      "difficulty": "Very Hard",
-      "asked": false
-    },
-    {
-      "category": "Geography",
-      "question": "This is the smallest country in the world",
-      "answer": "Vatican City",
-      "difficulty": "Super Duper Hard",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "This former US President was once banned from Twitter",
-      "answer": "Donald Trump",
-      "difficulty": "Very Easy",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "This is the most recent in the Avengers film series",
-      "answer": "Avengers: Endgame",
-      "difficulty": "Easy",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "This country turned pop artist is notorious for writing breakup songs",
-      "answer": "Taylor Swift",
-      "difficulty": "Medium",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "This video is has the most views of all time on Youtube",
-      "answer": "Baby Shark",
-      "difficulty": "Kinda Hard",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "This film has made the highest profit of all time",
-      "answer": "Avatar",
-      "difficulty": "Hard",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "Adam Levine is a singer in this music group",
-      "answer": "Maroon 5",
-      "difficulty": "Very Hard",
-      "asked": false
-    },
-    {
-      "category": "Pop Culture",
-      "question": "These fictional spokespersons are the faces of insurance companies Progressive, State Farm, and Allstate",
-      "answer": "Flo, Jake, and Mayhem",
-      "difficulty": "Super Duper Hard",
-      "asked": false
-    },
-    {
-      "category": "Brand Names",
-      "question":
-        "Trump tried to ban this Chinese video sharing social network",
-      "answer": "TikTok",
-      "difficulty": "Very Easy",
-      "asked": false
-    },
-    {
-      "category": "Brand Names",
-      "question": "This fast food chain's slogan is - I'm Lovin' It -",
-      "answer": "McDonald's",
-      "difficulty": "Easy",
-      "asked": false
-    },
-    {
-      "category": "Brand Names",
-      "question": "This type of product is made by Fenty",
-      "answer": "Makeup/Beauty Products",
-      "difficulty": "Medium",
-      "asked": false
-    },
-    {
-      "category": "Brand Names",
-      "question": "This extremely popular game's name also mean 14 days",
-      "answer": "Fortnite",
-      "difficulty": "Kinda Hard",
-      "asked": false
-    },
-
-    {
-      "category": "Brand Names",
-      "question": "This is the fast-food restaurant with the most locations",
-      "answer": "Subway",
-      "difficulty": "Hard",
-      "asked": false
-    },
-    {
-      "category": "Brand Names",
-      "question": "Chevrolet and GMC are both made by this company",
-      "answer": "GM(General Motors)",
-      "difficulty": "Very Hard",
-      "asked": false
-    },
-    {
-      "category": "Brand Names",
-      "question": "This is the state in which Chick-Fil-A was founded.",
-      "answer": "Georgia",
-      "difficulty": "Super Duper Hard",
-      "asked": false
-    },
-    {
-      "category": "Misc",
-      "question": "This was the first US President",
+      "category": "Revolutionary War",
+      "question": "Who lead the American Armies?",
       "answer": "George Washington",
       "difficulty": "Very Easy",
       "asked": false
     },
     {
-      "category": "Misc",
-      "question": "This is the shape generally used for stop signs",
-      "answer": "Octagon",
+      "category": "Revolutionary War",
+      "question": "How many British colonies formed the United States of America?",
+      "answer": "13",
       "difficulty": "Easy",
       "asked": false
     },
     {
-      "category": "Misc",
-      "question": "These are the colors on a rainbow",
-      "answer": "Red, Orange, Yellow, Green, Blue, Indigo, Violet",
+      "category": "Revolutionary War",
+      "question":
+        "In which year did the United States issue the Declaration of Independence?",
+      "answer": "1776",
       "difficulty": "Medium",
       "asked": false
     },
     {
-      "category": "Misc",
-      "question": "Inside of a web browser, WWW stands for this",
-      "answer": "World Wide Web",
+      "category": "Revolutionary War",
+      "question": "What are the leaders of the American Revolution called?",
+      "answer": "Founding Fathers",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+    {
+      "category": "Revolutionary War",
+      "question": "Who won the majority of battles in the Revolutionary War?",
+      "answer": "The British",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Revolutionary War",
+      "question": "Which famous American freedom fighter yelled 'The British are coming as a warning?",
+      "answer": "Paul Revere",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Revolutionary War",
+      "question": "What document ended the American Revolutionary War?",
+      "answer": "Treaty of Paris",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "How many states are in the USA?",
+      "answer": "50",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "What is the Capital of the USA?",
+      "answer": "Washington D.C",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "How many stripes are there on the American flag?",
+      "answer": "13",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "Boise is the Capital of which US State?",
+      "answer": "Idaho",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "What animal appears on the Revolutionary War flag with the legend 'Don't tread on me'?",
+      "answer": "Snake",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "What 2 counties is Texarkana located in?",
+      "answer": "Miller County and Bowie County",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "American Trivia",
+      "question": "What is the city of Philadelphia also known as?",
+      "answer": "The City of Brotherly Love",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Amendments",
+      "question":
+        "At the highest level in the U.S. government, amendments are used to amend what?",
+      "answer": "The Constitution",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Amendments",
+      "question": "What is the 2nd amendment?",
+      "answer": "The right to bear arms",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Amendments",
+      "question": "What is the 1st amendment commonly known for?",
+      "answer": "The right to free speech",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Amendments",
+      "question": "If a citizen wants to abstain from incriminating themselves, what amendment could they plead?",
+      "answer": "The 5th amendment",
       "difficulty": "Kinda Hard",
       "asked": false
     },
 
     {
-      "category": "Misc",
-      "question": "This was the first woman to fly solo across the Atlantic",
-      "answer": "Amelia Earhart",
+      "category": "Amendments",
+      "question": "What is the nickname for the first 10 amendments?",
+      "answer": "Bill of Rights",
       "difficulty": "Hard",
       "asked": false
     },
     {
-      "category": "Misc",
-      "question": "This is the biggest South Korean technology company",
-      "answer": "Samsung",
+      "category": "Amendments",
+      "question": "Which amendment gave women the right to vote?",
+      "answer": "The 19th Amendment",
       "difficulty": "Very Hard",
       "asked": false
     },
     {
-      "category": "Misc",
-      "question": "This was the first soft drink in space",
-      "answer": "Coca-Cola",
+      "category": "Amendments",
+      "question": " How many amendments have been created?",
+      "answer": "27",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Presidents",
+      "question": "Who was the 1st President?",
+      "answer": "George Washington",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Presidents",
+      "question": "Who was the President before Donald Trump?",
+      "answer": "Barrack Obama",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Presidents",
+      "question": "What number president was Abraham Lincoln?",
+      "answer": "16th",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Presidents",
+      "question": "Who is Joe Biden's Vice President?",
+      "answer": "Kamala Harris",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+
+    {
+      "category": "Presidents",
+      "question": "How many presidents have there been?",
+      "answer": "46",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Presidents",
+      "question": "Who was the 2nd President?",
+      "answer": "John Adams",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Presidents",
+      "question": "Who was Obama's Vice President?",
+      "answer": "Joe Biden",
       "difficulty": "Super Duper Hard",
       "asked": false
     }

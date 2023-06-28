@@ -1,0 +1,305 @@
+[
+    {
+      "category": "Bible",
+      "question": "This animal tempted Adam and Eve in the Garden of Eden",
+      "answer": "Snake",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question": "This part of Adam's body was used to create Eve",
+      "answer": "His rib",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question": "This many people were on Noah's Ark",
+      "answer": "8",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question": "This person baptized Jesus",
+      "answer": "John the Baptist",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+
+    {
+      "category": "Bible",
+      "question": "The Old Testament was written in this language",
+      "answer": "Hebrew",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question":
+        "This garden is where Jesus went to pray after the last supper",
+      "answer": "The Garden of Gethsemane",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Bible",
+      "question":
+        "This is where Jesus went 40 days after His resurrection",
+      "answer": "Heaven",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question": "This shot is taken after a foul in basketball",
+      "answer": "Free Throw",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question": "This man is known as the GOAT",
+      "answer": "Tom Brady",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question": "This many innings are in a Major League Baseball game",
+      "answer": "9",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question": "This team won the 2022 Super Bowl",
+      "answer": "Los Angeles Rams",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question":
+        "This olympic sport involves players sliding stones on a sheet of ice toward a target area which is segmented into four concentric circles",
+      "answer": "Curling",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question":
+        "This Arkansas player was taken 18th overall in the 2022 NFL draft",
+      "answer": "Treylon Burks",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Sports",
+      "question": "This used to be outlawed in NCAA Basketball pregame warmups",
+      "answer": "Dunking",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question": "This is the capital city of Mexico",
+      "answer": "Mexico City",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question": "This is the tallest mountain on Earth",
+      "answer": "Mt. Everest",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question":
+        "This US state features a rock sculpture of 4 past presidents",
+      "answer": "South Dakota",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question": "This is the 3rd largest US State",
+      "answer": "California",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question": "This is the largest desert on Earth",
+      "answer": "Antarctica",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question": "This country used to own Louisiana",
+      "answer": "France",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Geography",
+      "question": "This is the smallest country in the world",
+      "answer": "Vatican City",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "This former US President was once banned from Twitter",
+      "answer": "Donald Trump",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "This is the most recent in the Avengers film series",
+      "answer": "Avengers: Endgame",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "This country turned pop artist is notorious for writing breakup songs",
+      "answer": "Taylor Swift",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "This video is has the most views of all time on Youtube",
+      "answer": "Baby Shark",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "This film has made the highest profit of all time",
+      "answer": "Avatar",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "Adam Levine is a singer in this music group",
+      "answer": "Maroon 5",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Pop Culture",
+      "question": "These fictional spokespersons are the faces of insurance companies Progressive, State Farm, and Allstate",
+      "answer": "Flo, Jake, and Mayhem",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Brand Names",
+      "question":
+        "Trump tried to ban this Chinese video sharing social network",
+      "answer": "TikTok",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Brand Names",
+      "question": "This fast food chain's slogan is - I'm Lovin' It -",
+      "answer": "McDonald's",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Brand Names",
+      "question": "This type of product is made by Fenty",
+      "answer": "Makeup/Beauty Products",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Brand Names",
+      "question": "This extremely popular game's name also mean 14 days",
+      "answer": "Fortnite",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+
+    {
+      "category": "Brand Names",
+      "question": "This is the fast-food restaurant with the most locations",
+      "answer": "Subway",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Brand Names",
+      "question": "Chevrolet and GMC are both made by this company",
+      "answer": "GM(General Motors)",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Brand Names",
+      "question": "This is the state in which Chick-Fil-A was founded.",
+      "answer": "Georgia",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    },
+    {
+      "category": "Misc",
+      "question": "This was the first US President",
+      "answer": "George Washington",
+      "difficulty": "Very Easy",
+      "asked": false
+    },
+    {
+      "category": "Misc",
+      "question": "This is the shape generally used for stop signs",
+      "answer": "Octagon",
+      "difficulty": "Easy",
+      "asked": false
+    },
+    {
+      "category": "Misc",
+      "question": "These are the colors on a rainbow",
+      "answer": "Red, Orange, Yellow, Green, Blue, Indigo, Violet",
+      "difficulty": "Medium",
+      "asked": false
+    },
+    {
+      "category": "Misc",
+      "question": "Inside of a web browser, WWW stands for this",
+      "answer": "World Wide Web",
+      "difficulty": "Kinda Hard",
+      "asked": false
+    },
+
+    {
+      "category": "Misc",
+      "question": "This was the first woman to fly solo across the Atlantic",
+      "answer": "Amelia Earhart",
+      "difficulty": "Hard",
+      "asked": false
+    },
+    {
+      "category": "Misc",
+      "question": "This is the biggest South Korean technology company",
+      "answer": "Samsung",
+      "difficulty": "Very Hard",
+      "asked": false
+    },
+    {
+      "category": "Misc",
+      "question": "This was the first soft drink in space",
+      "answer": "Coca-Cola",
+      "difficulty": "Super Duper Hard",
+      "asked": false
+    }
+  ]
